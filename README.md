@@ -2,3 +2,6 @@ This project is a customer segmentation system built using Python and K-Means cl
 
 ### 🕹️ Interactive Demo
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-segmentation-kmeans-fxjvkbaepr4tvfmqunuyry.streamlit.app/)
+
+### 📊 Dataset
+The clustering model was trained on the [Customer Segmentation Dataset](https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering) from Kaggle. It contains rich customer data used to identify distinct purchasing profiles and behavioral segments.
